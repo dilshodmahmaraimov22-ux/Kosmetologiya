@@ -44,12 +44,14 @@
 
 .hero-container {
     background-color: #ECFFEB;
-    padding: 20px;
+    padding: 40px;
+    position: relative;
+    height: 600px;
 }
 
 .hero-list {
     display: flex;
-    justify-content: space-between;
+    gap: 20px;
 }
 
 .hero-title1 {
@@ -74,4 +76,29 @@
     font-size: 20px;
     line-height: 23px;
     letter-spacing: 0px;
+}
+
+.hero-item2 {
+    position: absolute;
+    display: flex;
+    gap: 20px;
+    top: 440px;
+    left: 50%;
+    transform: translateX(calc(-50% - 300px));
+}
+
+.hero-btn {
+    width: 230px;
+    height: 50px;
+    border: none;
+    background-color: green;
+    color: white;
+}
+
+.hero-btn2 {
+    width: 230px;
+    height: 50px;
+    border: 1px green solid;
+    color: green;
+    background-color: #ECFFEB;
 }
