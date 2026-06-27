@@ -1,12 +1,30 @@
-*{
+* {
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-.container{
+
+.container {
     max-width: 1200px;
     padding: 20px;
     margin: auto;
+}
+
+.header-list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.header-item {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.ilova {
+    font-size: 30px;
+    color: green;
 }
