@@ -24,6 +24,10 @@
     align-items: center;
 }
 
+.header-list2{
+    margin-top: 20px;
+}
+
 .header-item2 {
     display: flex;
     gap: 65px;
@@ -47,6 +51,7 @@
     padding: 40px;
     position: relative;
     height: 600px;
+    margin-bottom: 80px;
 }
 
 .hero-list {
@@ -106,10 +111,13 @@
 .asider {
     position: absolute;
     background-color: white;
-    box-shadow: grey 2px 2px 2px;
-    top: 0;
+    box-shadow: grey 4px 4px 4px 4px;
+    top: 520px;
     width: 1000px;
-    height: 180px;
+    height: 150px;
+    padding: 25px;
+    left: 50%;
+    transform: translateX(calc(-50% - 5px));
 }
 
 .asider-list {
@@ -125,6 +133,8 @@
     letter-spacing: 0px;
     text-align: center;
     vertical-align: middle;
+    color: #55A630;
+    margin-bottom: 10px;
 }
 
 .asider-text {
@@ -135,4 +145,5 @@
     letter-spacing: 0px;
     text-align: center;
     vertical-align: middle;
+    color: #424242;
 }
