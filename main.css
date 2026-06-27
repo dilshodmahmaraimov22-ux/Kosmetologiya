@@ -102,3 +102,37 @@
     color: green;
     background-color: #ECFFEB;
 }
+
+.asider {
+    position: absolute;
+    background-color: white;
+    box-shadow: grey 2px 2px 2px;
+    top: 0;
+    width: 1000px;
+    height: 180px;
+}
+
+.asider-list {
+    display: flex;
+    gap: 40px;
+}
+
+.asider-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 45px;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.asider-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
