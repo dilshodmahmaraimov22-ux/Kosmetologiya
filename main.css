@@ -24,7 +24,29 @@
     align-items: center;
 }
 
+.header-item2 {
+    display: flex;
+    gap: 73px;
+}
+
+.header-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0%;
+}
+
 .ilova {
     font-size: 30px;
     color: green;
+}
+
+.hero-container {
+    background-color: #ECFFEB;
+    padding: 20px;
+}
+.hero-list{
+    display: flex;
+    justify-content: space-between;
 }
