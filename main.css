@@ -148,6 +148,10 @@
     color: #424242;
 }
 
+.card-container{
+    position: relative;
+}
+
 .card-title {
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
@@ -157,6 +161,7 @@
     text-align: center;
     margin-top: 90px;
     margin-bottom: 60px;
+    color: #424242;
 }
 
 .card-list {
@@ -166,7 +171,7 @@
 
 .card-item {
     width: 365px;
-    height: 550px;
+    height: 530px;
     border: none;
     box-shadow: #424242 4px 4px 4px 4px;
     padding: 20px;
@@ -178,6 +183,7 @@
     font-size: 18px;
     line-height: 22px;
     letter-spacing: 0px;
+    margin-bottom: 20px;
 }
 
 .card-title11 {
@@ -187,6 +193,8 @@
     line-height: 100%;
     letter-spacing: -0.4px;
     color: #4340B4;
+    width: 205px;
+    margin-bottom: 20px;
 }
 
 .card-title12 {
@@ -214,6 +222,7 @@
     border-radius: 10px;
     background-color: #4340B4;
     color: white;
+    margin-bottom: 20px;
 }
 
 .card-btn12 {
@@ -242,7 +251,7 @@
     letter-spacing: 0px;
 }
 
-.card-text{
+.card-text {
     font-family: "Raleway", sans-serif;
     font-weight: 400;
     font-size: 15px;
@@ -250,12 +259,13 @@
     letter-spacing: 0px;
     color: #424242;
     display: inline;
-    
+    line-height: 30px;
+    width: 160px;
 }
 
-.card-img{
+.card-img {
     display: inline;
-    
+
 }
 
 .card-text2 {
@@ -266,7 +276,9 @@
     letter-spacing: 0px;
     color: #424242;
 }
-.card-item22{
+
+.card-item22 {
     display: flex;
     align-items: center;
+    margin-bottom: 30px;
 }
