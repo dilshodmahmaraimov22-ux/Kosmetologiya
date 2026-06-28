@@ -180,7 +180,7 @@
     letter-spacing: 0px;
 }
 
-.card-title1 {
+.card-title11 {
     font-family: Montserrat;
     font-weight: 600;
     font-size: 30px;
@@ -205,4 +205,31 @@
     line-height: 100%;
     letter-spacing: -0.4px;
     color: #1D8195;
+}
+
+.card-btn11{
+    width: 160px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4340B4;
+    color: white;
+}
+
+.card-btn11{
+    width: 160px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #55A630;
+    color: white;
+}
+
+.card-btn11{
+    width: 160px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #1D8195;
+    color: white;
 }
