@@ -171,7 +171,7 @@
 
 .card-item {
     width: 365px;
-    height: 530px;
+    height: 580px;
     border: none;
     box-shadow: #424242 2px 2px 2px 2px;
     padding: 20px;
@@ -286,48 +286,70 @@
 .card-list2 {
     display: flex;
     gap: 20px;
-    position: absolute;
-    top: 500px;
 }
 
 .card2-btn11 {
-    width: 365px;
+    position: absolute;
+    width: 366px;
     height: 60px;
     background-color: #4340B4;
     border: none;
+    top: 550px;
+    left: 50%;
+    transform: translateX(calc(-50% - 398px));
 }
 
 .card2-btn12 {
-    width: 365px;
+    position: absolute;
+    width: 368px;
     height: 60px;
     background-color: #5351C41A;
     border: none;
+    top: 610px;
+    left: 50%;
+    transform: translateX(calc(-50% - 398px));
 }
 
 .card2-btn21 {
-    width: 365px;
+    position: absolute;
+    width: 366px;
     height: 60px;
     background-color: #55A630;
     border: none;
+    top: 550px;
+    left: 50%;
+    transform: translateX(calc(-50% - 2px));
 }
 
 .card2-btn22 {
-    width: 365px;
+    position: absolute;
+    width: 366px;
     height: 60px;
     background-color: #ECF9EB;
     border: none;
+    top: 610px;
+    left: 50%;
+    transform: translateX(calc(-50% + 183px));
 }
 
 .card2-btn31 {
-    width: 365px;
+    position: absolute;
+    width: 366px;
     height: 60px;
     background-color: #00A896;
     border: none;
+    top: 550px;
+    left: 50%;
+    transform: translateX(calc(-50% + 483px));
 }
 
 .card2-btn32 {
-    width: 365px;
+    position: absolute;
+    width: 366px;
     height: 60px;
     background-color: #00A8961A;
     border: none;
+    top: 610px;
+    left: 50%;
+    transform: translateX(calc(-50% + 483px));
 }
