@@ -204,6 +204,7 @@
     line-height: 100%;
     letter-spacing: -0.4px;
     color: #55A630;
+    margin-bottom: 20px;
 }
 
 .card-title13 {
@@ -213,6 +214,7 @@
     line-height: 100%;
     letter-spacing: -0.4px;
     color: #1D8195;
+    margin-bottom: 20px;
 }
 
 .card-btn11 {
@@ -232,6 +234,7 @@
     border-radius: 10px;
     background-color: #55A630;
     color: white;
+    margin-bottom: 20px;
 }
 
 .card-btn13 {
@@ -241,6 +244,7 @@
     border-radius: 10px;
     background-color: #1D8195;
     color: white;
+    margin-bottom: 20px;
 }
 
 .card-title3 {
@@ -329,7 +333,7 @@
     border: none;
     top: 610px;
     left: 50%;
-    transform: translateX(calc(-50% + 183px));
+    transform: translateX(calc(-50% - 2px));
 }
 
 .card2-btn31 {
@@ -340,7 +344,7 @@
     border: none;
     top: 550px;
     left: 50%;
-    transform: translateX(calc(-50% + 483px));
+    transform: translateX(calc(-50% + 393px));
 }
 
 .card2-btn32 {
@@ -351,5 +355,5 @@
     border: none;
     top: 610px;
     left: 50%;
-    transform: translateX(calc(-50% + 483px));
+    transform: translateX(calc(-50% + 393px));
 }
