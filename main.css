@@ -166,7 +166,7 @@
 
 .card-item {
     width: 365px;
-    height: 585px;
+    height: 550px;
     border: none;
     box-shadow: #424242 4px 4px 4px 4px;
     padding: 20px;
@@ -207,7 +207,7 @@
     color: #1D8195;
 }
 
-.card-btn11{
+.card-btn11 {
     width: 160px;
     height: 40px;
     border: none;
@@ -216,7 +216,7 @@
     color: white;
 }
 
-.card-btn11{
+.card-btn12 {
     width: 160px;
     height: 40px;
     border: none;
@@ -225,11 +225,48 @@
     color: white;
 }
 
-.card-btn11{
+.card-btn13 {
     width: 160px;
     height: 40px;
     border: none;
     border-radius: 10px;
     background-color: #1D8195;
     color: white;
+}
+
+.card-title3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0px;
+}
+
+.card-text{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 12px;
+    letter-spacing: 0px;
+    color: #424242;
+    display: inline;
+    
+}
+
+.card-img{
+    display: inline;
+    
+}
+
+.card-text2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 12px;
+    letter-spacing: 0px;
+    color: #424242;
+}
+.card-item22{
+    display: flex;
+    align-items: center;
 }
