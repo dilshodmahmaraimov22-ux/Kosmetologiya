@@ -409,3 +409,9 @@
     text-align: center;
     color: #55A630;
 }
+
+.main-list{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 60px;
+}
