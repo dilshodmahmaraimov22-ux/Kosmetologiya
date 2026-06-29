@@ -631,23 +631,39 @@
     margin-bottom: 50px;
 }
 
-.otviz-list{
+.otviz-list {
     display: flex;
     gap: 20px;
     justify-content: space-between;
 }
 
-.otviz-item{
+.otviz-item {
     width: 380px;
     height: 315px;
     box-shadow: #424242 2px 2px 2px 2px;
     padding: 20px;
 }
 
-.otviz-item2{
+.otviz-item2 {
     width: 380px;
     height: 315px;
     box-shadow: #424242 2px 2px 2px 2px;
     padding: 20px;
     background-color: #B7ECB1;
+}
+
+.otviz-title2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 26px;
+    letter-spacing: 0%;
+}
+
+.otviz-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0px;
 }
