@@ -364,7 +364,7 @@
 
 .middle-container {
     display: flex;
-    gap: 40px;
+    gap: 100px;
     align-items: center;
 }
 
@@ -374,7 +374,7 @@
     font-size: 25px;
     line-height: 28px;
     letter-spacing: 0%;
-    text-align: center;
+    margin-bottom: 20px;
 }
 
 .middle-title {
@@ -384,6 +384,8 @@
     line-height: 107%;
     letter-spacing: -0.4px;
     color: #55A630;
+    width: 500px;
+    margin-bottom: 40px;
 }
 
 .middle-text {
@@ -393,4 +395,17 @@
     line-height: 29px;
     letter-spacing: 0%;
     color: #424242;
+    width: 450px;
+    margin-bottom: 40px;
+    line-height: 30px;
+}
+
+.middle-link {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #55A630;
 }
