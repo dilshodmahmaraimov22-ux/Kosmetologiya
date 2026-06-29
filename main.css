@@ -628,6 +628,7 @@
     font-size: 35px;
     line-height: 28px;
     letter-spacing: 0%;
+    margin-bottom: 50px;
 }
 
 .otviz-list{
@@ -641,4 +642,12 @@
     height: 315px;
     box-shadow: #424242 2px 2px 2px 2px;
     padding: 20px;
+}
+
+.otviz-item2{
+    width: 380px;
+    height: 315px;
+    box-shadow: #424242 2px 2px 2px 2px;
+    padding: 20px;
+    background-color: #B7ECB1;
 }
