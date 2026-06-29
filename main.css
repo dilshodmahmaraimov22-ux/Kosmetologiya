@@ -465,6 +465,11 @@
     border-radius: 2px;
 }
 
+.master-wrap{
+    display: flex;
+    gap: 60px;
+}
+
 .master-list{
     width: 520px;
 }
