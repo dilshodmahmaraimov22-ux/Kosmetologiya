@@ -524,8 +524,12 @@
 
 .master-list2 {
     width: 520px;
-    height: 460px;
+    height: 280px;
     box-shadow: #424242 2px 2px 2px;
     display: flex;
     padding: 20px;
+}
+
+.master-img3{
+    background-color: #55A630;
 }
