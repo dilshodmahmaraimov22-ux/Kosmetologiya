@@ -629,6 +629,7 @@
     line-height: 28px;
     letter-spacing: 0%;
     margin-bottom: 50px;
+    margin-top: 100px;
 }
 
 .otviz-list {
@@ -658,6 +659,8 @@
     font-size: 25px;
     line-height: 26px;
     letter-spacing: 0%;
+    margin-bottom: 30px;
+    color: #1C1E23;
 }
 
 .otviz-text {
@@ -666,4 +669,5 @@
     font-size: 20px;
     line-height: 23px;
     letter-spacing: 0px;
+    color: #1C1E23;
 }
