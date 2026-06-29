@@ -566,7 +566,7 @@
     width: 270px;
 }
 
-.master-btn11{
+.master-btn11 {
     width: 150px;
     height: 135px;
     background-color: #ECF9EB;
@@ -577,7 +577,7 @@
     transform: translateX(calc(-50% - 134px));
 }
 
-.master-btn12{
+.master-btn12 {
     width: 150px;
     height: 135px;
     background-color: #55A630;
@@ -590,7 +590,7 @@
     font-size: 30px;
 }
 
-.master-btn21{
+.master-btn21 {
     width: 150px;
     height: 135px;
     background-color: #ECF9EB;
@@ -601,7 +601,7 @@
     transform: translateX(calc(-50% + 505px));
 }
 
-.master-btn22{
+.master-btn22 {
     width: 150px;
     height: 135px;
     background-color: #55A630;
@@ -614,9 +614,18 @@
     font-size: 30px;
 }
 
-.master-img3{
+.master-img3 {
     position: absolute;
     top: 730px;
     left: 50%;
     transform: translateX(calc(-50% + 5px));
+}
+
+.otviz-title {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 28px;
+    letter-spacing: 0%;
 }
