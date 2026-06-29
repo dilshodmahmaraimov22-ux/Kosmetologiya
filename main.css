@@ -358,12 +358,39 @@
     transform: translateX(calc(-50% + 393px));
 }
 
-.middle-container{
+.middle-container {
     margin-top: 60px;
 }
 
-.middle-container{
+.middle-container {
     display: flex;
     gap: 40px;
     align-items: center;
+}
+
+.middle-title2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.middle-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 107%;
+    letter-spacing: -0.4px;
+    color: #55A630;
+}
+
+.middle-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    letter-spacing: 0%;
+    color: #424242;
 }
