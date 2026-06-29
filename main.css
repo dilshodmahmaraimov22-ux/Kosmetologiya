@@ -629,3 +629,16 @@
     line-height: 28px;
     letter-spacing: 0%;
 }
+
+.otviz-list{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.otviz-item{
+    width: 380px;
+    height: 315px;
+    box-shadow: #424242 2px 2px 2px 2px;
+    padding: 20px;
+}
