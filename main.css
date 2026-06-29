@@ -539,7 +539,8 @@
     line-height: 24px;
     letter-spacing: 0px;
     color: #424242;
-    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .master-text2 {
@@ -549,7 +550,7 @@
     line-height: 24px;
     letter-spacing: 0%;
     color: #424242;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     width: 290px;
 }
 
