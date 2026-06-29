@@ -427,7 +427,7 @@
     margin-bottom: 60px;
 }
 
-.nabor-container{
+.nabor-container {
     margin-top: 100px;
 }
 
@@ -457,7 +457,7 @@
     width: 620px;
 }
 
-.nabor-btn{
+.nabor-btn {
     width: 300px;
     height: 55px;
     background-color: #55A630;
@@ -465,11 +465,63 @@
     border-radius: 2px;
 }
 
-.master-wrap{
+.master-container {
+    margin-top: 100px;
+    position: relative;
+}
+
+.master-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #424242;
+}
+
+.master-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-bottom: 60px;
+    color: #424242;
+}
+
+.master-img{
+    position: absolute;
+}
+
+.master-img2{
+    position: absolute;
+}
+
+.master-wrap {
     display: flex;
     gap: 60px;
 }
 
-.master-list{
+.master-list {
     width: 520px;
+    height: 460px;
+    box-shadow: #424242 2px 2px 2px;
+    display: flex;
+}
+
+.master-list2 {
+    width: 520px;
+    height: 460px;
+    box-shadow: #424242 2px 2px 2px;
+}
+
+.master-list{
+    position: absolute;
+}
+
+.master-list2{
+    position: absolute;
 }
