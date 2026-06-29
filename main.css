@@ -426,3 +426,24 @@
     gap: 50px;
     margin-bottom: 60px;
 }
+
+.nabor-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nabor-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 114.99999999999999%;
+    letter-spacing: -0.4px;
+}
+
+.nabor-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 31px;
+    letter-spacing: 0px;
+}
