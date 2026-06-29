@@ -468,6 +468,7 @@
 .master-container {
     margin-top: 100px;
     position: relative;
+    margin-bottom: 100px;
 }
 
 .master-title {
@@ -611,4 +612,11 @@
     left: 50%;
     transform: translateX(calc(-50% + 505px));
     font-size: 30px;
+}
+
+.master-img3{
+    position: absolute;
+    top: 730px;
+    left: 50%;
+    transform: translateX(calc(-50% + 5px));
 }
