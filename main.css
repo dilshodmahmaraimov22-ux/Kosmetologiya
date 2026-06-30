@@ -722,6 +722,8 @@
     width: 430px;
     height: 60px;
     padding: 25px;
+    border: #55A630 1px solid;
+    margin-bottom: 20px;
 }
 
 .reg-btn{
@@ -730,4 +732,6 @@
     padding: 25px;
     text-align: center;
     background-color: #55A630;
+    border: none;
+    margin-top: 30px;
 }
