@@ -695,6 +695,7 @@
 .reg-container {
     width: 1200px;
     height: 530px;
+    margin-top: 150px;
 }
 
 .reg-title {
@@ -715,4 +716,18 @@
     letter-spacing: 0%;
     text-align: center;
     color: #424242;
+}
+
+.reg-input{
+    width: 430px;
+    height: 60px;
+    padding: 25px;
+}
+
+.reg-btn{
+    width: 430px;
+    height: 60px;
+    padding: 25px;
+    text-align: center;
+    background-color: #55A630;
 }
