@@ -687,3 +687,7 @@
     display: flex;
     gap: 20px;
 }
+
+.advert-img{
+    box-shadow: #00A896 3px 3px 3px;
+}
