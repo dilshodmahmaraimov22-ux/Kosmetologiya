@@ -683,11 +683,36 @@
     margin-bottom: 60px;
 }
 
-.advert-item{
+.advert-item {
     display: flex;
     gap: 20px;
 }
 
-.advert-img{
+.advert-img {
     box-shadow: #00A896 3px 3px 3px;
+}
+
+.reg-container {
+    width: 1200px;
+    height: 530px;
+}
+
+.reg-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #55A630;
+}
+
+.reg-text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #424242;
 }
