@@ -696,6 +696,9 @@
     width: 1200px;
     height: 530px;
     margin-top: 150px;
+    box-shadow: #858181 3px 3px 3px 3px;
+    text-align: center;
+    padding: 50px;
 }
 
 .reg-title {
@@ -706,6 +709,7 @@
     letter-spacing: 0%;
     text-align: center;
     color: #55A630;
+    margin-bottom: 30px;
 }
 
 .reg-text {
@@ -716,6 +720,7 @@
     letter-spacing: 0%;
     text-align: center;
     color: #424242;
+    margin-bottom: 50px;
 }
 
 .reg-input{
