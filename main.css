@@ -41,9 +41,22 @@
     letter-spacing: 0%;
 }
 
-@media(max-width: 430px){
-    .header-item{
+@media(max-width: 430px) {
+    .header-list {
+        width: 430px;
+    }
+
+    .header-item {
         display: none;
+    }
+
+    hr{
+        width: 1200px;
+    }
+
+    .header-text {
+        font-size: 15px;
+
     }
 }
 
@@ -760,7 +773,7 @@
     transform: translateX(calc(-50% + 40px));
 }
 
-.footer-list2{
+.footer-list2 {
     display: flex;
     gap: 40px;
     margin-bottom: 50px;
@@ -772,7 +785,7 @@
     width: 684px;
 }
 
-.footer-img2{
+.footer-img2 {
     margin-bottom: 45px;
     margin-left: 50px;
 }
