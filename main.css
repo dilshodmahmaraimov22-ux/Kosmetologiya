@@ -41,6 +41,12 @@
     letter-spacing: 0%;
 }
 
+@media(max-width: 430px){
+    .header-item{
+        display: none;
+    }
+}
+
 .ilova {
     font-size: 30px;
     color: green;
