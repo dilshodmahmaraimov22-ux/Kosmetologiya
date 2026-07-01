@@ -49,7 +49,9 @@
     .header-item {
         display: none;
     }
-
+    .header-item2{
+        width: 1200px;
+    }
     hr{
         width: 1200px;
     }
